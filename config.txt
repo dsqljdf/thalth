@@ -1,0 +1,6 @@
+token=NTE3NjkwMjYzNTc0MTUxMTY5.DuIy6g.5Yr7P7Svlf2Upbob2yE38mG4KUs 
+owner= 
+prefix= 3
+game= 3play
+stayinchannel=true
+songinstatus=true 
