@@ -1,5 +1,5 @@
-token=NTE3NjkwMjYzNTc0MTUxMTY5.DuIy6g.5Yr7P7Svlf2Upbob2yE38mG4KUs 
-owner= 
+token=NTI2ODQzMDU3Mjc5MjA1Mzkw.DwLiuw.Wf1qy1itfk_InYBQXl6V0J5EofQ 
+owner=526852760101060609 
 prefix= 3
 game= 3play
 stayinchannel=true
